@@ -218,7 +218,7 @@
                 "archived": false,
                 "id": 24655143,
                 "language": "C++",
-                "last_commit": "2026-08-21T13:36:38Z",
+                "last_commit": "2026-08-22T06:32:53Z",
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
                 "stars": 1294
@@ -345,7 +345,7 @@
                 "archived": false,
                 "id": 24655143,
                 "language": "C++",
-                "last_commit": "2026-08-21T13:36:38Z",
+                "last_commit": "2026-08-22T06:32:53Z",
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
                 "stars": 1294
@@ -495,7 +495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:03:39.692Z",
+    "last_updated": "2026-08-22T14:47:03.548Z",
     "original_repository": "andrewda/awesome-frc",
     "original_repository_id": 68661365,
     "original_repository_sha": "49a0480164151b4188fd8c316f154d016d6bf819",
