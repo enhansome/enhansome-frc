@@ -12,7 +12,7 @@
             "archived": false,
             "id": 109371607,
             "language": "TeX",
-            "last_commit": "2026-08-06T00:37:21Z",
+            "last_commit": "2026-08-22T22:06:43Z",
             "owner": "calcmogul",
             "repo": "controls-engineering-in-frc",
             "stars": 372
@@ -218,7 +218,7 @@
                 "archived": false,
                 "id": 24655143,
                 "language": "C++",
-                "last_commit": "2026-08-22T06:32:53Z",
+                "last_commit": "2026-08-23T14:45:28Z",
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
                 "stars": 1294
@@ -345,7 +345,7 @@
                 "archived": false,
                 "id": 24655143,
                 "language": "C++",
-                "last_commit": "2026-08-22T06:32:53Z",
+                "last_commit": "2026-08-23T14:45:28Z",
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
                 "stars": 1294
@@ -495,7 +495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:47:03.548Z",
+    "last_updated": "2026-08-23T14:48:52.820Z",
     "original_repository": "andrewda/awesome-frc",
     "original_repository_id": 68661365,
     "original_repository_sha": "49a0480164151b4188fd8c316f154d016d6bf819",
