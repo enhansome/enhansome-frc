@@ -218,7 +218,7 @@
                 "archived": false,
                 "id": 24655143,
                 "language": "C++",
-                "last_commit": "2026-08-23T14:45:28Z",
+                "last_commit": "2026-08-24T13:52:59Z",
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
                 "stars": 1294
@@ -345,7 +345,7 @@
                 "archived": false,
                 "id": 24655143,
                 "language": "C++",
-                "last_commit": "2026-08-23T14:45:28Z",
+                "last_commit": "2026-08-24T13:52:59Z",
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
                 "stars": 1294
@@ -489,13 +489,79 @@
           "description": null,
           "node_type": "group",
           "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "banners.css",
+              "description": "Library for creating pure CSS FRC banners. Utilitarian and pretty decoration for team websites.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65641135,
+                "language": "CSS",
+                "last_commit": "2018-08-09T13:21:30Z",
+                "owner": "frc1418",
+                "repo": "banners.css",
+                "stars": 24
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CSS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tba.rb",
+              "description": "Simple Ruby library for easy interaction with The Blue Alliance API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71840940,
+                "language": "Ruby",
+                "last_commit": "2018-06-27T20:14:07Z",
+                "owner": "frc1418",
+                "repo": "tbarb",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TBA Node API",
+              "description": "A Node.js library for interacting with The Blue Alliance API.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 71372401,
+                "language": "JavaScript",
+                "last_commit": "2016-10-19T17:08:57Z",
+                "owner": "Team2537",
+                "repo": "tba-api-node",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript"
         }
       ],
       "title": "Repositories"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:48:52.820Z",
+    "last_updated": "2026-08-24T14:37:29.245Z",
     "original_repository": "andrewda/awesome-frc",
     "original_repository_id": 68661365,
     "original_repository_sha": "49a0480164151b4188fd8c316f154d016d6bf819",
