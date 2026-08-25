@@ -27,7 +27,7 @@
             "archived": false,
             "id": 29353865,
             "language": "Java",
-            "last_commit": "2026-08-16T22:13:03Z",
+            "last_commit": "2026-08-24T20:24:05Z",
             "owner": "wpilibsuite",
             "repo": "GradleRIO",
             "stars": 282
@@ -218,7 +218,7 @@
                 "archived": false,
                 "id": 24655143,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:52:59Z",
+                "last_commit": "2026-08-25T05:14:29Z",
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
                 "stars": 1294
@@ -345,7 +345,7 @@
                 "archived": false,
                 "id": 24655143,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:52:59Z",
+                "last_commit": "2026-08-25T05:14:29Z",
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
                 "stars": 1294
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:10:11.162Z",
+    "last_updated": "2026-08-25T06:29:26.843Z",
     "original_repository": "andrewda/awesome-frc",
     "original_repository_id": 68661365,
     "original_repository_sha": "49a0480164151b4188fd8c316f154d016d6bf819",
