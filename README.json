@@ -27,7 +27,7 @@
             "archived": false,
             "id": 29353865,
             "language": "Java",
-            "last_commit": "2026-08-26T17:47:09Z",
+            "last_commit": "2026-08-27T12:51:07Z",
             "owner": "wpilibsuite",
             "repo": "GradleRIO",
             "stars": 282
@@ -218,10 +218,10 @@
                 "archived": false,
                 "id": 24655143,
                 "language": "C++",
-                "last_commit": "2026-08-27T04:16:52Z",
+                "last_commit": "2026-08-27T18:34:12Z",
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
-                "stars": 1297
+                "stars": 1298
               }
             },
             {
@@ -345,10 +345,10 @@
                 "archived": false,
                 "id": 24655143,
                 "language": "C++",
-                "last_commit": "2026-08-27T04:16:52Z",
+                "last_commit": "2026-08-27T18:34:12Z",
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
-                "stars": 1297
+                "stars": 1298
               }
             },
             {
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:38:59.327Z",
+    "last_updated": "2026-08-27T23:51:43.716Z",
     "original_repository_info": {
       "archived": false,
       "id": 68661365,

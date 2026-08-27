@@ -28,7 +28,7 @@
 ## General
 
 * [State Space Guide](https://github.com/calcmogul/state-space-guide) ⭐ 372 | 🐛 0 | 🌐 TeX | 📅 2026-08-22 - A practical guide to state-space control: graduate-level control theory for high schoolers.
-* [GradleRIO](https://github.com/wpilibsuite/GradleRIO) ⭐ 282 | 🐛 44 | 🌐 Java | 📅 2026-08-26 - A powerful Gradle Plugin that allows teams competing in the FIRST robotics competition to produce and build their code.
+* [GradleRIO](https://github.com/wpilibsuite/GradleRIO) ⭐ 282 | 🐛 43 | 🌐 Java | 📅 2026-08-27 - A powerful Gradle Plugin that allows teams competing in the FIRST robotics competition to produce and build their code.
 * [The Blue Alliance](https://www.thebluealliance.com/) - FRC's leading event, team, and match tracker.
 * [The Compass Alliance](https://www.thecompassalliance.org/) - A resource for learning about all FRC topic, made for any level of experience.
 
@@ -78,7 +78,7 @@
 
 ### Java/Kotlin
 
-* [WPILib](https://github.com/wpilibsuite/allwpilib) ⭐ 1,297 | 🐛 587 | 🌐 C++ | 📅 2026-08-27 - The official WPILib repository, containing code for the Java and C++ libraries.
+* [WPILib](https://github.com/wpilibsuite/allwpilib) ⭐ 1,298 | 🐛 588 | 🌐 C++ | 📅 2026-08-27 - The official WPILib repository, containing code for the Java and C++ libraries.
 * [Shuffleboard](https://github.com/wpilibsuite/Shuffleboard) ⚠️ Archived - A clean Driver Station dashboard for FIRST teams.
 * [SnobotSim](https://github.com/snobotsim/SnobotSim) ⚠️ Archived - A program that can simulate FRC robots programmed in Java.
 * [SmartDashboard](https://github.com/wpilibsuite/SmartDashboard) ⚠️ Archived - The official SmartDashboard repository containing code for the Java Driver Station dashboard.
@@ -89,7 +89,7 @@
 
 ### C++
 
-* [WPILib (Java/C++)](https://github.com/wpilibsuite/allwpilib) ⭐ 1,297 | 🐛 587 | 🌐 C++ | 📅 2026-08-27 - The official WPILib repository, containing code for the Java and C++ libraries.
+* [WPILib (Java/C++)](https://github.com/wpilibsuite/allwpilib) ⭐ 1,298 | 🐛 588 | 🌐 C++ | 📅 2026-08-27 - The official WPILib repository, containing code for the Java and C++ libraries.
 * [BaseBot](https://github.com/frc5024/basebot) ⚠️ Archived - A complete rewrite of barebonesFRC that is heavily optimized to run as fast as possible and use the bare minimum amount of resources during periodic functions.
 
 ### C\#
