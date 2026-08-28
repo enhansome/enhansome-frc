@@ -15,8 +15,9 @@
             "last_commit": "2026-08-22T22:06:43Z",
             "owner": "calcmogul",
             "repo": "controls-engineering-in-frc",
-            "stars": 372
-          }
+            "stars": 371
+          },
+          "first_seen": "2026-08-28T23:37:02.483Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 29353865,
             "language": "Java",
-            "last_commit": "2026-08-27T12:51:07Z",
+            "last_commit": "2026-08-28T04:00:30Z",
             "owner": "wpilibsuite",
             "repo": "GradleRIO",
             "stars": 282
-          }
+          },
+          "first_seen": "2026-08-28T23:37:02.483Z"
         }
       ],
       "title": "General"
@@ -52,7 +54,8 @@
             "owner": "WPIRoboticsProjects",
             "repo": "GRIP",
             "stars": 386
-          }
+          },
+          "first_seen": "2026-08-28T23:37:02.483Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "team3997",
             "repo": "ChickenVision",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T23:37:02.483Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "wpilibsuite",
             "repo": "cscore",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T23:37:02.483Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "SouthEugeneRoboticsTeam",
             "repo": "vision",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T23:37:02.483Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "2729StormRobotics",
             "repo": "StormCV2017",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:37:02.483Z"
         }
       ],
       "title": "Vision"
@@ -133,7 +140,8 @@
             "owner": "SUPERCILEX",
             "repo": "Robot-Scouter",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T23:37:02.483Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "frc1418",
             "repo": "VictiScout",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T23:37:02.483Z"
         }
       ],
       "title": "Scouting"
@@ -169,7 +178,8 @@
             "owner": "FRC-Utilities",
             "repo": "QDriverStation",
             "stars": 198
-          }
+          },
+          "first_seen": "2026-08-28T23:37:02.483Z"
         },
         {
           "node_type": "item",
@@ -184,7 +194,8 @@
             "owner": "FRCDashboard",
             "repo": "FRCDashboard",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T23:37:02.483Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "xeniarose",
             "repo": "SmartDashboard.js",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T23:37:02.483Z"
         }
       ],
       "title": "Driving"
@@ -221,8 +233,9 @@
                 "last_commit": "2026-08-27T18:34:12Z",
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
-                "stars": 1298
-              }
+                "stars": 1299
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
             },
             {
               "node_type": "item",
@@ -237,7 +250,8 @@
                 "owner": "wpilibsuite",
                 "repo": "shuffleboard",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
             },
             {
               "node_type": "item",
@@ -252,7 +266,8 @@
                 "owner": "snobotsim",
                 "repo": "SnobotSim",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
             },
             {
               "node_type": "item",
@@ -267,7 +282,8 @@
                 "owner": "wpilibsuite",
                 "repo": "SmartDashboard",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
             },
             {
               "node_type": "item",
@@ -282,7 +298,8 @@
                 "owner": "FRC5190",
                 "repo": "FalconLibrary",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
             },
             {
               "node_type": "item",
@@ -297,7 +314,8 @@
                 "owner": "flamingchickens1540",
                 "repo": "ROOSTER",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
             },
             {
               "node_type": "item",
@@ -312,7 +330,8 @@
                 "owner": "frc5024",
                 "repo": "lib5k",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
             },
             {
               "node_type": "item",
@@ -327,7 +346,8 @@
                 "owner": "SouthEugeneRoboticsTeam",
                 "repo": "sertain",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
             }
           ],
           "description": null,
@@ -348,8 +368,9 @@
                 "last_commit": "2026-08-27T18:34:12Z",
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
-                "stars": 1298
-              }
+                "stars": 1299
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
             },
             {
               "node_type": "item",
@@ -364,7 +385,8 @@
                 "owner": "frc5024",
                 "repo": "BaseBot",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
             }
           ],
           "description": null,
@@ -386,7 +408,8 @@
                 "owner": "robotdotnet",
                 "repo": "WPILib",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
             },
             {
               "node_type": "item",
@@ -401,7 +424,8 @@
                 "owner": "robotdotnet",
                 "repo": "FRC-Extension",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
             },
             {
               "node_type": "item",
@@ -416,7 +440,8 @@
                 "owner": "robotdotnet",
                 "repo": "NetworkTables",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
             }
           ],
           "description": null,
@@ -438,7 +463,8 @@
                 "owner": "robotpy",
                 "repo": "robotpy-wpilib",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
             },
             {
               "node_type": "item",
@@ -453,7 +479,8 @@
                 "owner": "robotpy",
                 "repo": "pynetworktables",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
             },
             {
               "node_type": "item",
@@ -468,7 +495,8 @@
                 "owner": "robotpy",
                 "repo": "pyrobottraining",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
             },
             {
               "node_type": "item",
@@ -483,7 +511,8 @@
                 "owner": "PlasmaRobotics2403",
                 "repo": "TBApi",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
             }
           ],
           "description": null,
@@ -505,7 +534,8 @@
                 "owner": "frc1418",
                 "repo": "banners.css",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
             }
           ],
           "description": null,
@@ -527,7 +557,8 @@
                 "owner": "frc1418",
                 "repo": "tbarb",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
             }
           ],
           "description": null,
@@ -549,7 +580,8 @@
                 "owner": "Team2537",
                 "repo": "tba-api-node",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
             }
           ],
           "description": null,
@@ -561,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:51:43.716Z",
+    "last_updated": "2026-08-28T23:37:02.483Z",
     "original_repository_info": {
       "archived": false,
       "id": 68661365,
