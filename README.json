@@ -360,10 +360,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-31T03:26:23Z",
-                "open_issues": 599,
+                "open_issues": 601,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
-                "stars": 1300,
+                "stars": 1301,
                 "topics": [
                   "cscore",
                   "hal",
@@ -557,10 +557,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-31T03:26:23Z",
-                "open_issues": 599,
+                "open_issues": 601,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
-                "stars": 1300,
+                "stars": 1301,
                 "topics": [
                   "cscore",
                   "hal",
@@ -874,7 +874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:15:14.443Z",
+    "last_updated": "2026-09-01T17:54:38.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of packages and resources regarding the FIRST Robotics Competition.",
