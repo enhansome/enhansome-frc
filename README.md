@@ -78,7 +78,7 @@
 
 ### Java/Kotlin
 
-* [WPILib](https://github.com/wpilibsuite/allwpilib) ⭐ 1,301 | 🐛 599 | 🌐 C++ | 📅 2026-09-02 - The official WPILib repository, containing code for the Java and C++ libraries.
+* [WPILib](https://github.com/wpilibsuite/allwpilib) ⭐ 1,301 | 🐛 598 | 🌐 C++ | 📅 2026-09-02 - The official WPILib repository, containing code for the Java and C++ libraries.
 * [Shuffleboard](https://github.com/wpilibsuite/Shuffleboard) ⚠️ Archived - A clean Driver Station dashboard for FIRST teams.
 * [SnobotSim](https://github.com/snobotsim/SnobotSim) ⚠️ Archived - A program that can simulate FRC robots programmed in Java.
 * [SmartDashboard](https://github.com/wpilibsuite/SmartDashboard) ⚠️ Archived - The official SmartDashboard repository containing code for the Java Driver Station dashboard.
@@ -89,7 +89,7 @@
 
 ### C++
 
-* [WPILib (Java/C++)](https://github.com/wpilibsuite/allwpilib) ⭐ 1,301 | 🐛 599 | 🌐 C++ | 📅 2026-09-02 - The official WPILib repository, containing code for the Java and C++ libraries.
+* [WPILib (Java/C++)](https://github.com/wpilibsuite/allwpilib) ⭐ 1,301 | 🐛 598 | 🌐 C++ | 📅 2026-09-02 - The official WPILib repository, containing code for the Java and C++ libraries.
 * [BaseBot](https://github.com/frc5024/basebot) ⚠️ Archived - A complete rewrite of barebonesFRC that is heavily optimized to run as fast as possible and use the bare minimum amount of resources during periodic functions.
 
 ### C\#
@@ -131,4 +131,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
