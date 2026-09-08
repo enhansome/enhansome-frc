@@ -36,8 +36,8 @@
             "id": 29353865,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-08-30T14:53:50Z",
-            "open_issues": 44,
+            "last_commit": "2026-09-08T01:14:44Z",
+            "open_issues": 42,
             "owner": "wpilibsuite",
             "repo": "GradleRIO",
             "stars": 281,
@@ -363,7 +363,7 @@
                 "open_issues": 594,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
-                "stars": 1301,
+                "stars": 1302,
                 "topics": [
                   "cscore",
                   "hal",
@@ -464,7 +464,7 @@
                 "open_issues": 1,
                 "owner": "FRC5190",
                 "repo": "FalconLibrary",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:37:02.483Z"
@@ -560,7 +560,7 @@
                 "open_issues": 594,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
-                "stars": 1301,
+                "stars": 1302,
                 "topics": [
                   "cscore",
                   "hal",
@@ -874,7 +874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:48:26.410Z",
+    "last_updated": "2026-09-08T17:59:28.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of packages and resources regarding the FIRST Robotics Competition.",
