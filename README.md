@@ -78,18 +78,18 @@
 
 ### Java/Kotlin
 
-* [WPILib](https://github.com/wpilibsuite/allwpilib) ⭐ 1,302 | 🐛 594 | 🌐 C++ | 📅 2026-09-07 - The official WPILib repository, containing code for the Java and C++ libraries.
+* [WPILib](https://github.com/wpilibsuite/allwpilib) ⭐ 1,302 | 🐛 599 | 🌐 C++ | 📅 2026-09-07 - The official WPILib repository, containing code for the Java and C++ libraries.
 * [Shuffleboard](https://github.com/wpilibsuite/Shuffleboard) ⚠️ Archived - A clean Driver Station dashboard for FIRST teams.
 * [SnobotSim](https://github.com/snobotsim/SnobotSim) ⚠️ Archived - A program that can simulate FRC robots programmed in Java.
+* [FalconLibrary](https://github.com/FRC5190/FalconLibrary) ⭐ 27 | 🐛 1 | 🌐 Kotlin | 📅 2023-06-03 - A library for programming robots in Kotlin, made by Team 5190.
 * [SmartDashboard](https://github.com/wpilibsuite/SmartDashboard) ⚠️ Archived - The official SmartDashboard repository containing code for the Java Driver Station dashboard.
-* [FalconLibrary](https://github.com/FRC5190/FalconLibrary) ⭐ 26 | 🐛 1 | 🌐 Kotlin | 📅 2023-06-03 - A library for programming robots in Kotlin, made by Team 5190.
 * [ROOSTER](https://github.com/flamingchickens1540/ROOSTER) ⭐ 11 | 🐛 7 | 🌐 Java | 📅 2020-02-19 - A common library of useful classes and systems for FIRST.
 * [Lib5K](https://github.com/frc5024/lib5k) ⭐ 8 | 🐛 23 | 🌐 Java | 📅 2023-03-02 - A robotics library developed by team 5024
 * [Sertain](https://github.com/SouthEugeneRoboticsTeam/sertain) ⭐ 6 | 🐛 10 | 🌐 Kotlin | 📅 2021-03-01 - A framework which builds upon WPILib and makes programming a robot in Kotlin beautiful.
 
 ### C++
 
-* [WPILib (Java/C++)](https://github.com/wpilibsuite/allwpilib) ⭐ 1,302 | 🐛 594 | 🌐 C++ | 📅 2026-09-07 - The official WPILib repository, containing code for the Java and C++ libraries.
+* [WPILib (Java/C++)](https://github.com/wpilibsuite/allwpilib) ⭐ 1,302 | 🐛 599 | 🌐 C++ | 📅 2026-09-07 - The official WPILib repository, containing code for the Java and C++ libraries.
 * [BaseBot](https://github.com/frc5024/basebot) ⚠️ Archived - A complete rewrite of barebonesFRC that is heavily optimized to run as fast as possible and use the bare minimum amount of resources during periodic functions.
 
 ### C\#
@@ -131,4 +131,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

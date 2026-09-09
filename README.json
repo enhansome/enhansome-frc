@@ -360,7 +360,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-07T17:14:32Z",
-                "open_issues": 594,
+                "open_issues": 599,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
                 "stars": 1302,
@@ -429,27 +429,6 @@
             },
             {
               "node_type": "item",
-              "title": "SmartDashboard",
-              "description": "The official SmartDashboard repository containing code for the Java Driver Station dashboard.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": null,
-                "homepage": null,
-                "id": 58485624,
-                "language": "Java",
-                "license": "NOASSERTION",
-                "last_commit": "2026-02-27T22:10:46Z",
-                "open_issues": 25,
-                "owner": "wpilibsuite",
-                "repo": "SmartDashboard",
-                "stars": 26,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:37:02.483Z"
-            },
-            {
-              "node_type": "item",
               "title": "FalconLibrary",
               "description": "A library for programming robots in Kotlin, made by Team 5190.",
               "children": [],
@@ -464,6 +443,27 @@
                 "open_issues": 1,
                 "owner": "FRC5190",
                 "repo": "FalconLibrary",
+                "stars": 27,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SmartDashboard",
+              "description": "The official SmartDashboard repository containing code for the Java Driver Station dashboard.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": null,
+                "homepage": null,
+                "id": 58485624,
+                "language": "Java",
+                "license": "NOASSERTION",
+                "last_commit": "2026-02-27T22:10:46Z",
+                "open_issues": 25,
+                "owner": "wpilibsuite",
+                "repo": "SmartDashboard",
                 "stars": 26,
                 "topics": []
               },
@@ -557,7 +557,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-07T17:14:32Z",
-                "open_issues": 594,
+                "open_issues": 599,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
                 "stars": 1302,
@@ -874,7 +874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T17:59:28.194Z",
+    "last_updated": "2026-09-09T17:53:44.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of packages and resources regarding the FIRST Robotics Competition.",
