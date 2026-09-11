@@ -63,7 +63,7 @@
 
 ## Driving
 
-* [QDriverStation](https://github.com/FRC-Utilities/QDriverStation) ⭐ 198 | 🐛 11 | 🌐 QML | 📅 2025-11-11 - Popular open-source Driver Station clone for all Desktop platforms. Though not permitted in competition, essential for teams wishing to drive on another platform or up their open source cred.
+* [QDriverStation](https://github.com/FRC-Utilities/QDriverStation) ⭐ 199 | 🐛 11 | 🌐 QML | 📅 2025-11-11 - Popular open-source Driver Station clone for all Desktop platforms. Though not permitted in competition, essential for teams wishing to drive on another platform or up their open source cred.
 * [FRCDashboard](https://github.com/FRCDashboard/FRCDashboard) ⭐ 139 | 🐛 4 | 🌐 JavaScript | 📅 2022-08-19 - Powerful and flexible boilerplate for creating complex driving dashboards with web technologies.
 * [SmartDashboard.js](https://github.com/erikuhlmann/SmartDashboard.js) ⚠️ Archived - SmartDashboard port written in JavaScript with `nw.js`.
 
@@ -78,7 +78,7 @@
 
 ### Java/Kotlin
 
-* [WPILib](https://github.com/wpilibsuite/allwpilib) ⭐ 1,302 | 🐛 603 | 🌐 C++ | 📅 2026-09-07 - The official WPILib repository, containing code for the Java and C++ libraries.
+* [WPILib](https://github.com/wpilibsuite/allwpilib) ⭐ 1,302 | 🐛 608 | 🌐 C++ | 📅 2026-09-07 - The official WPILib repository, containing code for the Java and C++ libraries.
 * [Shuffleboard](https://github.com/wpilibsuite/Shuffleboard) ⚠️ Archived - A clean Driver Station dashboard for FIRST teams.
 * [SnobotSim](https://github.com/snobotsim/SnobotSim) ⚠️ Archived - A program that can simulate FRC robots programmed in Java.
 * [FalconLibrary](https://github.com/FRC5190/FalconLibrary) ⭐ 27 | 🐛 1 | 🌐 Kotlin | 📅 2023-06-03 - A library for programming robots in Kotlin, made by Team 5190.
@@ -89,7 +89,7 @@
 
 ### C++
 
-* [WPILib (Java/C++)](https://github.com/wpilibsuite/allwpilib) ⭐ 1,302 | 🐛 603 | 🌐 C++ | 📅 2026-09-07 - The official WPILib repository, containing code for the Java and C++ libraries.
+* [WPILib (Java/C++)](https://github.com/wpilibsuite/allwpilib) ⭐ 1,302 | 🐛 608 | 🌐 C++ | 📅 2026-09-07 - The official WPILib repository, containing code for the Java and C++ libraries.
 * [BaseBot](https://github.com/frc5024/basebot) ⚠️ Archived - A complete rewrite of barebonesFRC that is heavily optimized to run as fast as possible and use the bare minimum amount of resources during periodic functions.
 
 ### C\#
@@ -131,4 +131,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
