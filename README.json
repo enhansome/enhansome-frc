@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "calcmogul",
             "repo": "controls-engineering-in-frc",
-            "stars": 373,
+            "stars": 374,
             "topics": []
           },
           "first_seen": "2026-08-28T23:37:02.483Z"
@@ -37,7 +37,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-09-08T01:14:44Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "wpilibsuite",
             "repo": "GradleRIO",
             "stars": 281,
@@ -283,7 +283,7 @@
             "open_issues": 11,
             "owner": "FRC-Utilities",
             "repo": "QDriverStation",
-            "stars": 199,
+            "stars": 200,
             "topics": [
               "control-systems",
               "frc",
@@ -359,11 +359,11 @@
                 "id": 24655143,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T02:50:44Z",
+                "last_commit": "2026-09-16T04:57:16Z",
                 "open_issues": 595,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
-                "stars": 1302,
+                "stars": 1303,
                 "topics": [
                   "cscore",
                   "hal",
@@ -556,11 +556,11 @@
                 "id": 24655143,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T02:50:44Z",
+                "last_commit": "2026-09-16T04:57:16Z",
                 "open_issues": 595,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
-                "stars": 1302,
+                "stars": 1303,
                 "topics": [
                   "cscore",
                   "hal",
@@ -874,7 +874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T18:22:14.583Z",
+    "last_updated": "2026-09-16T18:18:10.966Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of packages and resources regarding the FIRST Robotics Competition.",
