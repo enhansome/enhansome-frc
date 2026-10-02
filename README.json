@@ -15,7 +15,7 @@
             "id": 109371607,
             "language": "TeX",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-26T20:01:33Z",
+            "last_commit": "2026-10-02T18:30:30Z",
             "open_issues": 0,
             "owner": "calcmogul",
             "repo": "controls-engineering-in-frc",
@@ -40,7 +40,7 @@
             "open_issues": 45,
             "owner": "wpilibsuite",
             "repo": "GradleRIO",
-            "stars": 281,
+            "stars": 282,
             "topics": [
               "first-robotics-competition",
               "frc",
@@ -360,7 +360,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-30T03:45:26Z",
-                "open_issues": 601,
+                "open_issues": 604,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
                 "stars": 1307,
@@ -557,7 +557,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-30T03:45:26Z",
-                "open_issues": 601,
+                "open_issues": 604,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
                 "stars": 1307,
@@ -874,7 +874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:40:14.044Z",
+    "last_updated": "2026-10-02T19:26:22.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of packages and resources regarding the FIRST Robotics Competition.",
