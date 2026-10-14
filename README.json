@@ -363,7 +363,7 @@
                 "open_issues": 608,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
-                "stars": 1310,
+                "stars": 1311,
                 "topics": [
                   "cscore",
                   "hal",
@@ -560,7 +560,7 @@
                 "open_issues": 608,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
-                "stars": 1310,
+                "stars": 1311,
                 "topics": [
                   "cscore",
                   "hal",
@@ -874,7 +874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:18:14.408Z",
+    "last_updated": "2026-10-14T18:47:43.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of packages and resources regarding the FIRST Robotics Competition.",
