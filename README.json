@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "calcmogul",
             "repo": "controls-engineering-in-frc",
-            "stars": 379,
+            "stars": 380,
             "topics": []
           },
           "first_seen": "2026-08-28T23:37:02.483Z"
@@ -359,11 +359,11 @@
                 "id": 24655143,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T02:08:36Z",
-                "open_issues": 607,
+                "last_commit": "2026-11-11T21:22:16Z",
+                "open_issues": 611,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
-                "stars": 1318,
+                "stars": 1317,
                 "topics": [
                   "cscore",
                   "hal",
@@ -556,11 +556,11 @@
                 "id": 24655143,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T02:08:36Z",
-                "open_issues": 607,
+                "last_commit": "2026-11-11T21:22:16Z",
+                "open_issues": 611,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
-                "stars": 1318,
+                "stars": 1317,
                 "topics": [
                   "cscore",
                   "hal",
@@ -874,7 +874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:56:37.293Z",
+    "last_updated": "2026-11-11T21:29:23.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of packages and resources regarding the FIRST Robotics Competition.",
