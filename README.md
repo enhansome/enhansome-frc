@@ -48,7 +48,7 @@
 
 ## Vision
 
-* [GRIP](https://github.com/WPIRoboticsProjects/GRIP) ⭐ 385 | 🐛 146 | 🌐 Java | 📅 2021-07-30 - An application for rapidly prototyping and deploying computer vision algorithms.
+* [GRIP](https://github.com/WPIRoboticsProjects/GRIP) ⚠️ Archived - An application for rapidly prototyping and deploying computer vision algorithms.
 * [ChickenVision](https://github.com/team3997/ChickenVision) ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2020-01-15 - An easy to implement vision system created by Team 3997.
 * [CSCore](https://github.com/wpilibsuite/cscore) ⚠️ Archived - The CScore camera vision library from WPI.
 * [SERT Vision](https://github.com/SouthEugeneRoboticsTeam/vision) ⭐ 25 | 🐛 16 | 🌐 Python | 📅 2023-07-06 - A Jetson-powered OpenCV vision tracking solution, complete with status GUI and NetworkTable hooks.
@@ -78,7 +78,7 @@
 
 ### Java/Kotlin
 
-* [WPILib](https://github.com/wpilibsuite/allwpilib) ⭐ 1,318 | 🐛 613 | 🌐 C++ | 📅 2026-11-12 - The official WPILib repository, containing code for the Java and C++ libraries.
+* [WPILib](https://github.com/wpilibsuite/allwpilib) ⭐ 1,318 | 🐛 614 | 🌐 C++ | 📅 2026-11-13 - The official WPILib repository, containing code for the Java and C++ libraries.
 * [Shuffleboard](https://github.com/wpilibsuite/Shuffleboard) ⚠️ Archived - A clean Driver Station dashboard for FIRST teams.
 * [SnobotSim](https://github.com/snobotsim/SnobotSim) ⚠️ Archived - A program that can simulate FRC robots programmed in Java.
 * [FalconLibrary](https://github.com/FRC5190/FalconLibrary) ⭐ 27 | 🐛 1 | 🌐 Kotlin | 📅 2023-06-03 - A library for programming robots in Kotlin, made by Team 5190.
@@ -89,7 +89,7 @@
 
 ### C++
 
-* [WPILib (Java/C++)](https://github.com/wpilibsuite/allwpilib) ⭐ 1,318 | 🐛 613 | 🌐 C++ | 📅 2026-11-12 - The official WPILib repository, containing code for the Java and C++ libraries.
+* [WPILib (Java/C++)](https://github.com/wpilibsuite/allwpilib) ⭐ 1,318 | 🐛 614 | 🌐 C++ | 📅 2026-11-13 - The official WPILib repository, containing code for the Java and C++ libraries.
 * [BaseBot](https://github.com/frc5024/basebot) ⚠️ Archived - A complete rewrite of barebonesFRC that is heavily optimized to run as fast as possible and use the bare minimum amount of resources during periodic functions.
 
 ### C\#
@@ -131,4 +131,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
