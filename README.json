@@ -72,7 +72,7 @@
             "open_issues": 146,
             "owner": "WPIRoboticsProjects",
             "repo": "GRIP",
-            "stars": 385,
+            "stars": 386,
             "topics": [
               "camera",
               "computer-vision",
@@ -359,8 +359,8 @@
                 "id": 24655143,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T06:51:08Z",
-                "open_issues": 614,
+                "last_commit": "2026-11-14T07:41:12Z",
+                "open_issues": 605,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
                 "stars": 1318,
@@ -492,6 +492,27 @@
             },
             {
               "node_type": "item",
+              "title": "Sertain",
+              "description": "A framework which builds upon WPILib and makes programming a robot in Kotlin beautiful.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Framework for programming FRC robots, inspired by Sertain Legacy and Meanlib",
+                "homepage": null,
+                "id": 197329803,
+                "language": "Kotlin",
+                "license": null,
+                "last_commit": "2021-03-01T21:42:53Z",
+                "open_issues": 10,
+                "owner": "SouthEugeneRoboticsTeam",
+                "repo": "sertain",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:37:02.483Z"
+            },
+            {
+              "node_type": "item",
               "title": "Lib5K",
               "description": "A robotics library developed by team 5024",
               "children": [],
@@ -515,27 +536,6 @@
                 ]
               },
               "first_seen": "2026-08-28T23:37:02.483Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Sertain",
-              "description": "A framework which builds upon WPILib and makes programming a robot in Kotlin beautiful.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Framework for programming FRC robots, inspired by Sertain Legacy and Meanlib",
-                "homepage": null,
-                "id": 197329803,
-                "language": "Kotlin",
-                "license": null,
-                "last_commit": "2021-03-01T21:42:53Z",
-                "open_issues": 10,
-                "owner": "SouthEugeneRoboticsTeam",
-                "repo": "sertain",
-                "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:37:02.483Z"
             }
           ],
           "description": null,
@@ -556,8 +556,8 @@
                 "id": 24655143,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T06:51:08Z",
-                "open_issues": 614,
+                "last_commit": "2026-11-14T07:41:12Z",
+                "open_issues": 605,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
                 "stars": 1318,
@@ -874,7 +874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:56:31.469Z",
+    "last_updated": "2026-11-14T19:22:09.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of packages and resources regarding the FIRST Robotics Competition.",
