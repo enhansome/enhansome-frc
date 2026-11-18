@@ -283,7 +283,7 @@
             "open_issues": 11,
             "owner": "FRC-Utilities",
             "repo": "QDriverStation",
-            "stars": 199,
+            "stars": 198,
             "topics": [
               "control-systems",
               "frc",
@@ -360,10 +360,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-17T03:43:17Z",
-                "open_issues": 605,
+                "open_issues": 610,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
-                "stars": 1322,
+                "stars": 1323,
                 "topics": [
                   "cscore",
                   "hal",
@@ -557,10 +557,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-17T03:43:17Z",
-                "open_issues": 605,
+                "open_issues": 610,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
-                "stars": 1322,
+                "stars": 1323,
                 "topics": [
                   "cscore",
                   "hal",
@@ -874,7 +874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T22:32:14.302Z",
+    "last_updated": "2026-11-18T22:12:49.584Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of packages and resources regarding the FIRST Robotics Competition.",
