@@ -359,8 +359,8 @@
                 "id": 24655143,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T22:44:42Z",
-                "open_issues": 593,
+                "last_commit": "2026-11-21T03:49:35Z",
+                "open_issues": 587,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
                 "stars": 1323,
@@ -391,7 +391,7 @@
                 "open_issues": 73,
                 "owner": "wpilibsuite",
                 "repo": "shuffleboard",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "first-frc",
                   "first-robotics-competition",
@@ -556,8 +556,8 @@
                 "id": 24655143,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T22:44:42Z",
-                "open_issues": 593,
+                "last_commit": "2026-11-21T03:49:35Z",
+                "open_issues": 587,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
                 "stars": 1323,
@@ -874,7 +874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:54:31.676Z",
+    "last_updated": "2026-11-21T20:37:24.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of packages and resources regarding the FIRST Robotics Competition.",
