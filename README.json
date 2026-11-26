@@ -15,7 +15,7 @@
             "id": 109371607,
             "language": "TeX",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-22T04:53:07Z",
+            "last_commit": "2026-11-26T23:06:12Z",
             "open_issues": 0,
             "owner": "calcmogul",
             "repo": "controls-engineering-in-frc",
@@ -309,7 +309,7 @@
             "open_issues": 4,
             "owner": "FRCDashboard",
             "repo": "FRCDashboard",
-            "stars": 140,
+            "stars": 141,
             "topics": []
           },
           "first_seen": "2026-08-28T23:37:02.483Z"
@@ -359,8 +359,8 @@
                 "id": 24655143,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-25T04:26:36Z",
-                "open_issues": 567,
+                "last_commit": "2026-11-26T04:05:07Z",
+                "open_issues": 559,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
                 "stars": 1324,
@@ -556,8 +556,8 @@
                 "id": 24655143,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-25T04:26:36Z",
-                "open_issues": 567,
+                "last_commit": "2026-11-26T04:05:07Z",
+                "open_issues": 559,
                 "owner": "wpilibsuite",
                 "repo": "allwpilib",
                 "stars": 1324,
@@ -874,7 +874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:11:43.543Z",
+    "last_updated": "2026-11-26T23:10:07.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of packages and resources regarding the FIRST Robotics Competition.",
